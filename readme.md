@@ -58,9 +58,4 @@
 - 📊 Accuracy will differ on **real F1 datasets**.  
 - 🎯 The project demonstrates how **machine learning + sports analytics** can be integrated into an interactive dashboard.  
 
----
-
-## 🖼️ Screenshots  
-
-(Add screenshots of your Streamlit app here, for example:)  
 
